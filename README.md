@@ -36,7 +36,7 @@ Acesso negado. ---> type nul: Oculta qualquer arquivo (Caso tenha acesso ao ADM 
 
 -----Atividade 003-----
 
-<img width="982" height="512" alt="image" src="https://github.com/user-attachments/assets/5ff3b60b-c839-4d20-b46b-e0aaf1f63037" />
+<img width="978" height="514" alt="image" src="https://github.com/user-attachments/assets/f76c1e53-d068-4d3c-ba33-05977e5d51e2" />
 
 
 -----Atividade 004-----
